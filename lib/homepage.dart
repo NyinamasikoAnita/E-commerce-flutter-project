@@ -99,7 +99,7 @@ class _HomePageState extends State<HomePage> {
                     borderRadius: BorderRadius.circular(8.0), 
                     image: 
                       const DecorationImage( 
-                      image: AssetImage("assets/cake2.jpg"), 
+                      image: AssetImage("assets/cake2.png"), 
                       fit: BoxFit.cover, 
                     ), 
                   ), 
@@ -161,7 +161,7 @@ class _HomePageState extends State<HomePage> {
                   decoration: BoxDecoration( 
                     borderRadius: BorderRadius.circular(8.0), 
                     image: const DecorationImage( 
-                      image: AssetImage("assets/cake2.jpg"), 
+                      image: AssetImage("assets/cake2.png"), 
                       fit: BoxFit.cover, 
                     ), 
                   ),
@@ -236,7 +236,7 @@ class _HomePageState extends State<HomePage> {
                       width: 200.0,
                       height: 150.0,
                       fit: BoxFit.cover,
-                      image: AssetImage("assets/cake.jpg")
+                      image: AssetImage("assets/bread.jpg")
                       )
                   ],
                 ) ,
@@ -255,7 +255,7 @@ class _HomePageState extends State<HomePage> {
                       width: 200.0,
                       height: 150.0,
                       fit: BoxFit.cover,
-                      image: AssetImage("assets/cake.jpg")
+                      image: AssetImage("assets/pizza.jpg")
                       ),
                       
                       
@@ -341,7 +341,7 @@ class _HomePageState extends State<HomePage> {
                       width: 200.0,
                       height: 150.0,
                       fit: BoxFit.cover,
-                      image: AssetImage("assets/slice.jpg")
+                      image: AssetImage("assets/cupcake.jpg")
                       ),
                       const Text("Cupcakes"),
                       const  SizedBox(
@@ -385,7 +385,7 @@ class _HomePageState extends State<HomePage> {
                       width: 200.0,
                       height: 150.0,
                       fit: BoxFit.cover,
-                      image: AssetImage("assets/slice.jpg")
+                      image: AssetImage("assets/buns.jpg")
                       ),
                       const Text("Bans"),
                       const SizedBox(

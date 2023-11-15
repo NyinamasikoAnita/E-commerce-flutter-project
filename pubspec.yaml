@@ -71,8 +71,17 @@ flutter:
     - assets/basket.png
     - assets/delivery.png
     - assets/cake.jpg
-    - assets/cake2.jpg
+    - assets/cake2.png
     - assets/slice.jpg
+    - assets/bread.jpg
+    - assets/pizza.jpg
+    - assets/biscuits.jpg
+    - assets/buns.jpg
+    - assets/Burger.jpg
+    - assets/cookies.jpg
+    - assets/cupcake.jpg
+    - assets/doughnuts.jpg
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
